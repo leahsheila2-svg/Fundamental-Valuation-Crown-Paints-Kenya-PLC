@@ -55,3 +55,38 @@ a) Concept: Values the company based on revenue rather than profit.
 b) Essence: Is that it focuses on top line performance & its less sensitive to accounting variations
 c) Fair Value: KES 56.90 it is slightly below market price → mild overvaluation.
 
+## Valuation Summary
+- Current Market Price: KES 60.00
+- Intrinsic Value (DCF): KES 59.00
+- Blended Fair Value: KES 48.78
+- Implied Return: -18.7%
+
+## Investment Interpretation
+The valuation presents a clear divergence:
+- The DCF model suggests the company is fairly valued
+- Relative valuation methods consistently indicate overvaluation
+- This implies that current market pricing may reflects optimistic growth of the organization & the blended valuation highlights limited upside and potential downside risk.
+
+# Investment Recommendation: HOLD
+- Intrinsic value supports current pricing levels
+- Relative valuation signals downside risk (~18.7%)
+
+The stock is best positioned as a HOLD, balancing fair value with valuation caution.
+
+## Key Financial Highlights (FY2024)
+- Revenue: KES 13.5B
+- Net Income: KES 544M
+- Market Cap: KES 8.5B
+- P/E Ratio: 15.7x
+- EV/EBITDA: 7.4x
+- ROE: 26.7%
+- Dividend Yield: 5.0%
+
+# Download Full Valuation Model:
+
+##  Conclusion
+This project demonstrates how financial modeling can be used to assess company valuation by combining intrinsic and relative approaches.
+It provides a structured framework for evaluating market pricing, identifying misvaluation, and supporting investment decision-making.
+
+ ## Note: 
+ This project is intended for learning and practice purposes only.
