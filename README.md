@@ -82,7 +82,7 @@ The stock is best positioned as a HOLD, balancing fair value with valuation caut
 - ROE: 26.7%
 - Dividend Yield: 5.0%
 
-# Download Full Valuation Model:
+- Download Full Valuation Model: Fundamental Valuation - Crown Paints Plc.xlsx
 
 ##  Conclusion
 This project demonstrates how financial modeling can be used to assess company valuation by combining intrinsic and relative approaches.
